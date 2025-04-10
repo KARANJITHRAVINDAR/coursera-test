@@ -7,6 +7,7 @@ body{
 	margin:0;
 	font-family: Kristen ITC;
 	align-content:center;
+   background-color: beige;
 }
 h1{
 	color: darkgoldenrod;
@@ -95,7 +96,7 @@ p{
 
    .col-sm-1
    {
-   	width: 80%;
+   	width: 100%;
    }
    .col-sm-2
    {
